@@ -1,0 +1,32 @@
+.main {
+	width: 65%;
+}
+
+.bioimage{
+	float:left;
+	padding-right: 15px
+}
+
+.social {
+	text-align: center;
+}
+
+.connect {
+	padding: 5px;
+}
+
+.links {
+	margin-right: 118px;
+}
+
+.logo {
+	padding-left: 145px;
+}
+
+#footer {
+	text-align: center;
+}
+
+.image {
+	width: 265px;
+}
